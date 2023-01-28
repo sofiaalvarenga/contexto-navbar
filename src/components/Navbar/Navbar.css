@@ -1,0 +1,9 @@
+.user-context{
+    background-color: rgb(201, 7, 201);
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    justify-content: flex-end;
+    color: white;
+    font-weight: bold;
+}
